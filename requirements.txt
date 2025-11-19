@@ -1,0 +1,7 @@
+PyGithub
+requests
+python-dotenv
+torch
+transformers
+datasets
+accelerate
